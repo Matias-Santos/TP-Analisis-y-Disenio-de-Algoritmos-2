@@ -1,0 +1,54 @@
+# depslib dependency file v1.0
+1561748391 source:c:\users\matías\desktop\facu\ayda2\algoritmos geometricos\main.cpp
+	<iostream>
+	<list>
+	"Punto.h"
+	"Segmento.h"
+
+1560530548 source:c:\users\matías\desktop\facu\punto.cpp
+	"Punto.h"
+
+1560530548 c:\users\matías\desktop\facu\punto.h
+	<cmath>
+
+1559926840 source:c:\users\matías\desktop\facu\segmento.cpp
+	"Punto.h"
+	"Segmento.h"
+
+1559926841 c:\users\matías\desktop\facu\segmento.h
+	"Punto.h"
+
+1561741439 c:\users\matías\desktop\facu\ayda2\algoritmos geometricos\punto.h
+	<cmath>
+	<iostream>
+
+1559926698 c:\users\matías\desktop\facu\ayda2\algoritmos geometricos\segmento.h
+	"Punto.h"
+
+1559926698 source:c:\users\matías\desktop\facu\ayda2\algoritmos geometricos\segmento.cpp
+	"Punto.h"
+	"Segmento.h"
+
+1561594680 source:c:\users\matías\desktop\facu\ayda2\algoritmos geometricos\punto.cpp
+	"Punto.h"
+
+1561594680 source:c:\users\matías\desktop\facultad\ayda2\algoritmos geometricos\punto.cpp
+	"Punto.h"
+
+1561741439 c:\users\matías\desktop\facultad\ayda2\algoritmos geometricos\punto.h
+	<cmath>
+	<iostream>
+
+1559926698 source:c:\users\matías\desktop\facultad\ayda2\algoritmos geometricos\segmento.cpp
+	"Punto.h"
+	"Segmento.h"
+
+1559926698 c:\users\matías\desktop\facultad\ayda2\algoritmos geometricos\segmento.h
+	"Punto.h"
+
+1578425387 source:c:\users\matías\desktop\facultad\ayda2\algoritmos geometricos\main.cpp
+	<iostream>
+	<list>
+	"Punto.h"
+	"Segmento.h"
+

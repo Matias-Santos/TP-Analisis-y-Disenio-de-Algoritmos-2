@@ -1,0 +1,54 @@
+# depslib dependency file v1.0
+1557500920 source:c:\users\matías\desktop\programacion\ayda2\grafo dirigido\main.cpp
+	<iostream>
+	<assert.h>
+	"GrafoD.h"
+	"GrafoNoD.h"
+	"sets.h"
+
+1555088918 c:\users\matías\desktop\programacion\ayda2\grafo dirigido\include\grafod.h
+	<list>
+	<map>
+
+1553787078 source:c:\users\matías\desktop\programacion\ayda2\grafo dirigido\src\grafod.cpp
+
+1553777638 source:c:\users\santi\desktop\grafo dirigido\src\grafod.cpp
+
+1553995948 source:c:\users\matías\desktop\grafo dirigido\main.cpp
+	<iostream>
+	"GrafoD.h"
+
+1553966366 c:\users\matías\desktop\grafo dirigido\include\grafod.h
+	<list>
+	<map>
+
+1553787078 source:c:\users\matías\desktop\grafo dirigido\src\grafod.cpp
+
+1556861917 c:\users\matías\desktop\programacion\ayda2\grafo dirigido\include\grafonod.h
+	<list>
+	<map>
+
+1556886682 c:\users\matías\desktop\programacion\ayda2\grafo dirigido\include\conjunto.h
+	<assert.h>
+
+1556861282 c:\users\matías\desktop\programacion\ayda2\grafo dirigido\include\sets.h
+	<assert.h>
+
+1557500920 source:c:\users\matías\desktop\facu\ayda2\grafo dirigido\main.cpp
+	<iostream>
+	<assert.h>
+	"GrafoD.h"
+	"GrafoNoD.h"
+	"sets.h"
+
+1555088918 c:\users\matías\desktop\facu\ayda2\grafo dirigido\include\grafod.h
+	<list>
+	<map>
+
+1556861917 c:\users\matías\desktop\facu\ayda2\grafo dirigido\include\grafonod.h
+	<list>
+	<map>
+
+1556861282 c:\users\matías\desktop\facu\ayda2\grafo dirigido\include\sets.h
+	<assert.h>
+

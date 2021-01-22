@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1561744450 source:c:\users\matías\desktop\facu\ayda2\string matching\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<math.h>
+

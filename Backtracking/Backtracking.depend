@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1558735293 source:c:\users\matías\desktop\programacion\ayda2\backtracking\main.cpp
+	<iostream>
+	<cmath>
+	<list>
+	<iomanip>
+
+1559673563 source:c:\users\matías\desktop\facu\ayda2\backtracking\main.cpp
+	<iostream>
+	<cmath>
+	<list>
+	<iomanip>
+	<queue>
+
+1575551275 source:c:\users\matías\desktop\facultad\ayda2\backtracking\main.cpp
+	<iostream>
+	<cmath>
+	<list>
+	<iomanip>
+	<queue>
+
